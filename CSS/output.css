@@ -1110,6 +1110,10 @@ video {
     width: fit-content;
   }
 
+  .md\:w-\[40\%\] {
+    width: 40%;
+  }
+
   .md\:items-end {
     align-items: flex-end;
   }
