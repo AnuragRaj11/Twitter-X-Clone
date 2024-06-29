@@ -1114,6 +1114,10 @@ video {
     width: 40%;
   }
 
+  .md\:w-\[50\%\] {
+    width: 50%;
+  }
+
   .md\:items-end {
     align-items: flex-end;
   }
